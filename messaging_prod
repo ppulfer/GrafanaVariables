@@ -1,0 +1,10 @@
+### ${ServiceBusName}
+[default](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?orgId=1&refresh=5m&var-ResourceGroup=Messaging-Prod&var-ServiceBusName=dg-prod-messaging-prem) //
+[dg-translation](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?orgId=1&refresh=5m&var-ResourceGroup=Dg.Translation-Production&var-ServiceBusName=dg-translation-prod) //
+[dg-search](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?orgId=1&refresh=5m&var-ResourceGroup=Dg.Search-Production&var-ServiceBusName=dg-search-production) //
+[dg-aftersales](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&orgId=1&refresh=5m&var-ResourceGroup=Dg.AfterSales-Production&var-ServiceBusName=dg-aftersales-prod) //
+[dg-productdata](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&orgId=1&refresh=5m&var-ResourceGroup=Dg.ProductData-Production&var-ServiceBusName=dg-productdata-prod) //
+[dg-sales](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&orgId=1&refresh=5m&var-ResourceGroup=Dg.Sales-Production&var-ServiceBusName=dg-sales-prod) //
+[dg-shopnavigation](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&orgId=1&refresh=5m&var-ResourceGroup=Dg.ShopNavigation-Production&var-ServiceBusName=dg-shopnavigation-production) //
+[dg-logistics](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&orgId=1&refresh=5m&var-ResourceGroup=Dg.Logistics-Production&var-ServiceBusName=dg-logistics-prod) //
+[dg-customer](https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&orgId=1&refresh=5m&var-ResourceGroup=Dg.Customer-Production&var-ServiceBusName=dg-customer-prod) 
