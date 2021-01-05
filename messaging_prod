@@ -1,4 +1,4 @@
-<p><a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Messaging-Prod&amp;var-ServiceBusName=dg-prod-messaging-prem">default</a> //
+<a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Messaging-Prod&amp;var-ServiceBusName=dg-prod-messaging-prem">default</a> //
 <a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Dg.Translation-Production&amp;var-ServiceBusName=dg-translation-prod">dg-translation</a> //
 <a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Dg.Search-Production&amp;var-ServiceBusName=dg-search-production">dg-search</a> //
 <a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&amp;orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Dg.AfterSales-Production&amp;var-ServiceBusName=dg-aftersales-prod">dg-aftersales</a> //
@@ -6,4 +6,4 @@
 <a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&amp;orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Dg.Sales-Production&amp;var-ServiceBusName=dg-sales-prod">dg-sales</a> //
 <a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&amp;orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Dg.ShopNavigation-Production&amp;var-ServiceBusName=dg-shopnavigation-production">dg-shopnavigation</a> //
 <a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&amp;orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Dg.Logistics-Production&amp;var-ServiceBusName=dg-logistics-prod">dg-logistics</a> //
-<a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&amp;orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Dg.Customer-Production&amp;var-ServiceBusName=dg-customer-prod">dg-customer</a> </p>
+<a href="https://grafana.devinite.com/d/vgJRNrxMz/messaging-dashboard?&amp;orgId=1&amp;refresh=5m&amp;var-ResourceGroup=Dg.Customer-Production&amp;var-ServiceBusName=dg-customer-prod">dg-customer</a>
